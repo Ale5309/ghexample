@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/ale/Documents/Algoritmos/web/calculator/src'
+let g:netrw_dirhist_7='/home/ale/Documents/Algoritmos/web/calculator'
+let g:netrw_dirhist_6='/home/ale/.vim/coc-settings'
+let g:netrw_dirhist_5='/home/ale/.vim/autoload'
+let g:netrw_dirhist_4='/home/ale/NetBeansProjects/DVDBlockBuster/BACKUP BdD'
+let g:netrw_dirhist_3='/home/ale/.cargo/registry/index/github.com-1ecc6299db9ec823/.cache/3/f'
+let g:netrw_dirhist_2='/home/ale/.cargo/registry/index/github.com-1ecc6299db9ec823/.cache/3'
+let g:netrw_dirhist_1='/home/ale/.cargo/registry/index/github.com-1ecc6299db9ec823/.cache'
+let g:netrw_dirhist_0='/home/ale/.cargo/registry/index/github.com-1ecc6299db9ec823'
+let g:netrw_dirhist_9='/home/ale/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
